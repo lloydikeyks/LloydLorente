@@ -25,5 +25,5 @@ I am Lloyd Jefferson Lorente, with a flair for coding and database management sk
 
 ## Connect with Me:
 
-- LinkedIn: [LinkedIn Profile]([linkedin_link](https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/)https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/)
+- LinkedIn: [LORENTE, Lloyd Jefferson]([linkedin_link](https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/)https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/)
 - Email: lloydlorente230@gmail.com
