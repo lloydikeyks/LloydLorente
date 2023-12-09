@@ -25,5 +25,5 @@ I am Juan Dela Cruz, with a flair for coding and database management skills. I t
 
 ## Connect with Me:
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/)https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/
+- LinkedIn: [](https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/)https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/
 - Email: juandelacruz@gmail.com
