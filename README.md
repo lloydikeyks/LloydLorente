@@ -13,7 +13,7 @@ I am Juan Dela Cruz, with a flair for coding and database management skills. I t
 ## Certification:
 
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](certification_link1)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](certification_link2)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6AAF413BE1D890C581D4C8FE946F54CCAFDF9BF7C9E50937AF796230C042F165)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D445D213AB638D570147DCCD91BC0A07C1C8BCC8F028266987EDCAD6516993D4)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/1b935a1aa7bc4145bbc208e37926c621)
 
