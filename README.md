@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I am Juan Dela Cruz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I enrolled in the BS Information Technology program.
+I am Lloyd Jefferson Lorente, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I enrolled in the BS Information Technology program.
 
 ## Education:
 
@@ -26,4 +26,4 @@ I am Juan Dela Cruz, with a flair for coding and database management skills. I t
 ## Connect with Me:
 
 - LinkedIn: [](https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/)https://www.linkedin.com/in/lorente-lloyd-jefferson-1113b12a3/
-- Email: juandelacruz@gmail.com
+- Email: lloydlorente230@gmail.com
