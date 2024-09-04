@@ -19,9 +19,9 @@ I am Lloyd Jefferson Lorente, with a flair for coding and database management sk
 
 ## Skill Sets:
 
-- **Programming:** Java, Javascript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Programming:** Java, Javascript, Python, C
+- **Databases:** IBM DB2 Cloud, MongoDB
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VSCode
 
 ## Connect with Me:
 
